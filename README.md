@@ -117,6 +117,8 @@
     
 ## ▶ Accuracy and Result
 Accuracy : 98.6%
+
 <img src="images/lstm_accuracy.PNG">
+
 <img src="image/lstm_loss.PNG">
 
